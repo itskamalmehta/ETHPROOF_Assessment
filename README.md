@@ -1,4 +1,4 @@
-#ETH PROOF: Beginner Assignment 
+# ETH PROOF: Beginner Assignment 
 This Soliditary Program involves creating a smart contract for a token. This contract will manage basic functionalities such as minting new tokens, burning existing tokens, and maintaining the balances of token holders.
 
 ## Description
@@ -14,9 +14,10 @@ No Installation Needed, Just needs a Web-Browser.
    https://remix.ethereum.org/
 2. On the Remix website, create a new file by clicking on the "+" icon in the left sidebar. 
    Save the file with a .sol extension. Copy and paste the following code into the file, then Compile and 
-   Deploy.
+   Deploy:
 
 // SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.26;
 
 /*
@@ -58,6 +59,8 @@ contract MyToken {
     }
 }
 
+
+
 Steps to Compile and Deploy:
 1. Go to Remix IDE in your web browser.
 2. In the file explorer on the left-hand sidebar, click the "+" icon to create a new file.
@@ -75,11 +78,9 @@ Steps to Compile and Deploy:
    burn, then click "transact".
 
 
-
 ## Authors
 Kamal Mehta
 itskamalmehta@gmail.com
-
 
 
 
