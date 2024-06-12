@@ -16,6 +16,7 @@ No Installation Needed, Just needs a Web-Browser.
    Save the file with a .sol extension. Copy and paste the following code into the file, then Compile and 
    Deploy:
 
+```
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.26;
@@ -58,7 +59,7 @@ contract MyToken {
       }       
     }
 }
-
+```
 
 
 Steps to Compile and Deploy:
